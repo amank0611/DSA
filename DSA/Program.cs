@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // Call particular class object to access the functioanlity.
+
+            //Calculate.CalculateDiscount();
+            //Tree.GetBoundaryOfPerfectBinaryTree();
+            TargetSum.GetTargetSumIndices();
         }
     }
 }
