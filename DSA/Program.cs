@@ -8,7 +8,9 @@
 
             //Calculate.CalculateDiscount();
             //Tree.GetBoundaryOfPerfectBinaryTree();
-            TargetSum.GetTargetSumIndices();
+            //TargetSum.GetTargetSumIndices();
+            //SortArray.GetSortArray();
+            Swap.NumberSwaping();
         }
     }
 }
